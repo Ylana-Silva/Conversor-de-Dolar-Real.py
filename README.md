@@ -1,4 +1,1 @@
-  ##CONVERTOR##
-real = float(input("Quantos reais você tem na carteira?R$"))
-dolar = real/5.47
-print("Com R${} você pdoe comprar US{}".format(real,dolar))
+É um conversor simples, quando o usúario digita a quantidade de reais que ele possui, o sistema irá mostrar quantos dolares ele consegue comprar.
